@@ -9,6 +9,7 @@ body {
 a {
     color: #ec5d5d;
     text-decoration: none;
+    text-align: -moz-center;
 }
 
 .button-holder {
