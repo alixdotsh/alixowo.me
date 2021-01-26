@@ -169,14 +169,14 @@ a:hover {
 }
 
 .container2 {
-  height: 200px;
-  position: relative;
+  height: 50px;
+  position: inherit;
 }
 
 .vertical.center2 {
   margin: 0;
   position: absolute;
-  top: 85%;
+  top: 100%;
   left: 50%;
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
