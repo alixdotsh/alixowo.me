@@ -1,0 +1,39 @@
+body {
+    background: #333333;
+    text-align: center;
+    font-size: 20px;
+    font-family: torus, sans-serif;
+    color: #ffffff;
+}
+
+a {
+    color: #ec5d5d;
+    text-decoration: none;
+}
+
+.button-holder {
+    background-color: #454545;
+    margin: 5px;
+    border-radius: 10px;
+    width: 250px;
+    padding: 10px;
+}
+
+#buttons {
+    text-align: -webkit-center;
+}
+
+.top {
+    text-align: left;
+    width: 100%;
+}
+
+.top a {
+    margin: 1px;
+    display: block;
+    background-color: #454545;
+    padding: 5px;
+    text-align: center;
+    border-radius: 10px;
+    width: 100px;
+}
